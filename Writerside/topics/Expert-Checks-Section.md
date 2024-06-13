@@ -1,0 +1,3 @@
+# Expert Checks Section
+
+**Player Check** settings allow you to add and remove ignored and triggered players. The aimbot will not respond to ignored players, such as administrators, but will respond to triggered players. *After adding an ignored or triggered player, select it in the drop-down menu. If you want to remove a player from the triggered or ignored players only for a while, it is better to simply deselect it in the drop-down menu than to remove it completely.*
