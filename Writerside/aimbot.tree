@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="aimbot"
+                 name="Open Aimbot"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="Aimbot.md">
+        <toc-element topic="Aimbot-Section.md"/>
+        <toc-element topic="Aim-Offset-Section.md"/>
+        <toc-element topic="Sensitivity-Section.md"/>
+    </toc-element>
+    <toc-element topic="TriggerBot.md">
+        <toc-element topic="TriggerBot-Section.md"/>
+    </toc-element>
+    <toc-element topic="Checks.md">
+        <toc-element topic="Simple-Checks-Section.md"/>
+        <toc-element topic="Advanced-Checks-Section.md"/>
+        <toc-element topic="Expert-Checks-Section.md"/>
+    </toc-element>
+    <toc-element topic="Visuals.md">
+        <toc-element topic="FoV-Section.md"/>
+        <toc-element topic="ESP-Section.md"/>
+        <toc-element topic="Visuals-Section.md"/>
+    </toc-element>
+    <toc-element topic="Settings.md">
+        <toc-element topic="UI-Section.md"/>
+        <toc-element topic="Notifications-Section.md"/>
+        <toc-element topic="Configuration-Manager.md"/>
+    </toc-element>
+</instance-profile>
