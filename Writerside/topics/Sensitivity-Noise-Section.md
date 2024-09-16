@@ -1,4 +1,4 @@
-# Sensitivity Section
+# Sensitivity & Noise Section
 
 **Sensitivity** allows you to make the movements of the camera or mouse cursor smoother and more pleasant when aiming.
 

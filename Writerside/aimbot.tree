@@ -10,7 +10,7 @@
     <toc-element topic="Aimbot.md">
         <toc-element topic="Aimbot-Section.md"/>
         <toc-element topic="Aim-Offset-Section.md"/>
-        <toc-element topic="Sensitivity-Section.md"/>
+        <toc-element topic="Sensitivity-Noise-Section.md"/>
     </toc-element>
     <toc-element topic="TriggerBot.md">
         <toc-element topic="TriggerBot-Section.md"/>
