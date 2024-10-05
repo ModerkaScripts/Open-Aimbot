@@ -1,5 +1,7 @@
 # About Open Aimbot
 
+![Open Aimbot](https://i.gyazo.com/62a3afa25dfd6a8f158a476fdb1e3af1.gif)
+
 Open Aimbot is a **universal** open source framework. It offers a wide selection of extensive functionality, including:
 - ***Over 70 Features***
 - ***Detection Bypasses***
