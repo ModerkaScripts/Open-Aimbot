@@ -2,7 +2,7 @@
 
 **TriggerBot** is a cheat that allows you to shoot automatically after you hover the cursor over the target.
 
-When **TriggerBot Toggle** is turned on, the activation key will function.
+When **TriggerBot** is turned on, the activation key will function.
 
 **Trigger Key** can operate in hold mode if **One-Press Mode** is off, and in single-press mode if **One-Press Mode** is on.
 

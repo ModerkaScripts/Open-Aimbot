@@ -1,6 +1,6 @@
 # Aimbot Section
 
-When **Aimbot Toggle** is turned on, the activation key will function.
+When **Aimbot** is turned on, the activation key will function.
 
 **Aim Key** can operate in hold mode if **One-Press Mode** is off, and in single-press mode if **One-Press Mode** is on.
 
