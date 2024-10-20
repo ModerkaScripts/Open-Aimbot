@@ -4,15 +4,16 @@
 
 <instance-profile id="aimbot"
                  name="Open Aimbot"
-                 start-page="starter-topic.md">
+                 start-page="About.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="About.md"/>
     <toc-element topic="Aimbot.md">
         <toc-element topic="Aimbot-Section.md"/>
         <toc-element topic="Aim-Offset-Section.md"/>
         <toc-element topic="Sensitivity-Noise-Section.md"/>
     </toc-element>
-    <toc-element topic="TriggerBot.md">
+    <toc-element topic="Bots.md">
+        <toc-element topic="SpinBot-Section.md"/>
         <toc-element topic="TriggerBot-Section.md"/>
     </toc-element>
     <toc-element topic="Checks.md">
@@ -28,8 +29,9 @@
     </toc-element>
     <toc-element topic="Settings.md">
         <toc-element topic="UI-Section.md"/>
-        <toc-element topic="Notifications-Section.md"/>
+        <toc-element topic="Notifications-Warnings-Section.md"/>
         <toc-element topic="Performance-Section.md"/>
         <toc-element topic="Configuration-Manager.md"/>
     </toc-element>
+    <toc-element topic="Premium.md"/>
 </instance-profile>

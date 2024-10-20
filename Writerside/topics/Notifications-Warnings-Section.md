@@ -1,4 +1,4 @@
-# Notifications Section
+# Notifications & Warnings Section
 
 **Show Notifications** and **Show Warnings** settings are responsible for displaying pop-up windows.
 

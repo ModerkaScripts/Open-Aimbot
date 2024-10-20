@@ -1,5 +1,7 @@
 # TriggerBot Section
 
+*This section will not be displayed if the software does not support the Input Library.*
+
 **TriggerBot** is a cheat that allows you to shoot automatically after you hover the cursor over the target.
 
 When **TriggerBot** is turned on, the activation key will function.

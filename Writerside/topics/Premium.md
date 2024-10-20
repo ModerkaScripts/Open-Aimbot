@@ -1,6 +1,4 @@
-# Premium Checks Section
-
-If **Premium Check** is enabled, the aimbot will not respond to Open Aimbot ***💫PREMIUM💫*** users.
+# 💫PREMIUM💫
 
 **✨Upgrade to unlock Premium features✨**, such as:
 - ***Kill Aura** with flexible configuration and universal support for most games*
