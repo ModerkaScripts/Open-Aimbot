@@ -1,4 +1,4 @@
-# About Open Aimbot
+# About
 
 ![Open Aimbot](https://i.gyazo.com/3c36be2f6dd82c196967d0dcd61145a7.gif){ thumbnail="true" }
 
