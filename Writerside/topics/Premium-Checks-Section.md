@@ -2,6 +2,8 @@
 
 If **Premium Check** is enabled, the aimbot will not respond to Open Aimbot ***💫PREMIUM💫*** users.
 
+<video src="https://youtu.be/4q8C0Gy-jcA"/>
+
 **✨Upgrade to unlock Premium features✨**, such as:
 - ***Attack Aura (Kill Aura)** with flexible configuration and universal support for most games*
 - ***Hitbox Expander** with universal support for most games and the ability to adjust the size of the hitboxes for both **R6** and **R15** characters individually*
